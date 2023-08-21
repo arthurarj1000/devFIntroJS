@@ -1,1 +1,7 @@
 En JS todo el código agregado debe de ir inglés. Es más fácil y mejor.
+
+ELSE: usarla cuando la condicional da un resultado falso.
+
+ELSE IF: es para cuando quieres agregar más condicionales que si daran un resultado verdadero.
+
+BACKTICKS: utilizado para poner expresiones mucho más fácil que estar abriendo y concateando llaves.
